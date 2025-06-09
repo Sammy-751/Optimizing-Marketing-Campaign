@@ -7,7 +7,8 @@ The bank runs large-scale phone campaigns to promote term deposits. However, onl
 
 **Stakeholders**: Marketing managers and campaign strategists aiming to increase ROI on telemarketing efforts.
 
-**Dataset**: A structured dataset from a Portuguese bank containing client profiles, contact history, and subscription outcomes.
+**Dataset**: The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed. 
+
 
 ### Business Questions:
 1. What customer and campaign characteristics most influence subscription?
