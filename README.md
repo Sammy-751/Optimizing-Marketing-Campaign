@@ -1,21 +1,19 @@
-
 # Optimizing Market Campaigns: Predicting Term Deposit Subscriptions
 
 ## 📌 Overview
 The bank runs large-scale phone campaigns to promote term deposits. However, only a small fraction of customers subscribe. This project builds a predictive model to help the marketing team better target potential customers, reduce unnecessary calls, and increase the effectiveness of their campaigns.
 
-> 📊 *[Visualization suggestion: Include a graph of total calls vs success rate]*
-
 ## 🧠 Business and Data Understanding
 
-**Stakeholders**: Marketing managers and campaign strategists.
+**Stakeholders**: Marketing managers and campaign strategists aiming to increase ROI on telemarketing efforts.
 
-**Dataset**: Contains customer profiles, campaign interaction details, and outcomes.
+**Dataset**: A structured dataset from a Portuguese bank containing client profiles, contact history, and subscription outcomes.
 
-**Business Questions**:
-1. What characteristics drive subscription?
-2. Can we reduce wasted calls?
-3. Can we predict customer responses?
+### Business Questions:
+1. What customer and campaign characteristics most influence subscription?
+2. Can we use these insights to prioritize and reduce unnecessary outreach?
+3. Can we accurately predict who will subscribe to better guide campaign planning?
+
 
 > 📊 *[Visualization: Class imbalance bar chart (yes vs no), feature overview]*
 
